@@ -1,11 +1,7 @@
 ### Hi！！！
 I'm a master student of China University of Geosciences, Beijing. Nice to meet you .
 
-![Geology](https://img.shields.io/badge/GEOSCIENCES-CUGB-A52A2A?style=for-the-badge&logo=googleearth&logoColor=white)
-
-![Math](https://img.shields.io/badge/MATHEMATICS-STATISTICS-0078D4?style=for-the-badge&logo=mathematica&logoColor=white)
-
-![IT](https://img.shields.io/badge/INFO_TECH-PYTHON_&_R-239120?style=for-the-badge&logo=codeforces&logoColor=white)
+⚒️ Geosciences | 🔢 Mathematics | 💻 Information Science
 <!--
 **
 
