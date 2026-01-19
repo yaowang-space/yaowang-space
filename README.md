@@ -1,7 +1,7 @@
 ### Hi！！！
 I'm a master student of China University of Geosciences, Beijing. Nice to meet you .
 
-⚒️ Geosciences | 🔢 Mathematics | 💻 Information Science
+🏔 Geosciences | 🔢 Mathematics | 💻 Information Science
 <!--
 **
 
