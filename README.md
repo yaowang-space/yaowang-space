@@ -1,7 +1,8 @@
 ### Hi！！！
-I'm a master student of China University of Geosciences, Beijing. Nice to meet you .
+I'm a master student of China University of Geosciences, Beijing. Nice to meet you.
 
-🌋🏔🪨💾💻
+![Geology](https://img.shields.io/badge/Subject-Geology-brown)
+![R](https://img.shields.io/badge/Language-R-blue?logo=r)
 <!--
 **
 
