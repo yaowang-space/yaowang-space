@@ -1,5 +1,5 @@
 ### Hi！！！
-I'm a master student of China University of Geosciences, Beijing. Nice to meet you .
+I'm Yao Wang, a master student of China University of Geosciences, Beijing. Nice to meet you .
 
 🏔 Geology | 🔢 Mathematics | ⚛️ Geochronology
 <!--
